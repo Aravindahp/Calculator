@@ -51,6 +51,7 @@ public class Calculator extends HttpServlet {
           out.println("<br><h2>Serving Container IP: " + my_address.getHostAddress()+"</h2>");
 	  */
 
+   
           out.println("</body>");
           out.println("</html>");  
         }
